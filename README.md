@@ -1,6 +1,55 @@
-Hi, I’m Cid Van Santos 👋
+<h1 align="center">Hi 👋, I'm Cid Van Santos</h1>
+<h3 align="center">Full-Stack Developer • ERP Systems Builder • CS Student</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ERP+Systems+Builder;React+%2B+TypeScript+Developer;VPS+%2B+Production+Deployment;PostgreSQL+%2B+Backend+Architecture" />
+</p>
+## 🚀 Tech Stack
 
-Full-Stack Developer • CS Student • ERP Systems Builder
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### DevOps & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cidvan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cidvan&layout=compact&theme=tokyonight"/>
+</p>
+## 🔥 Contribution Graph
+
+[![Cidvan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cidvan&theme=tokyo-night)](https://github.com/Cidvan)
+## 🧠 Currently Working On
+
+- ERP & business management systems
+- VPS production deployments
+- PostgreSQL architecture
+- Full-stack TypeScript applications
+- Business process automation
+## 🚀 Featured Projects
+
+### KaizenProBilliards ERP
+Production-grade ERP platform with quotations, invoicing, operational tracking, and reporting systems.
+
+**Stack:** React • TypeScript • PostgreSQL • Express • VPS • PM2 • Nginx
+
+### Portfolio Website
+Modern developer portfolio deployed using Vercel with custom domain configuration.
+
+**Stack:** React • TypeScript • Tailwind • Vercel
 Computer Science student passionate about building scalable web applications, ERP systems, automation tools, and modern business solutions.
 
 Currently focused on:

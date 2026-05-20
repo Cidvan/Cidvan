@@ -1,9 +1,6 @@
 Hi, I’m Cid Van Santos 👋
 
 Full-Stack Developer • CS Student • ERP Systems Builder
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Cidvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cidvan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cidvan&layout=compact&theme=tokyonight)
 Computer Science student passionate about building scalable web applications, ERP systems, automation tools, and modern business solutions.
 
 Currently focused on:
